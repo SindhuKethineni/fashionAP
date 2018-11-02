@@ -1,0 +1,17 @@
+www.github.com
+
+create repository----------->(+)
+
+cd
+cd Desktop
+git clone (adderss of repository)
+cd basiccrud/
+git status
+git add .
+git commit -m "firstproject"
+git push origin master
+
+
+
+
+https://github.com/SindhuKethineni/DemoCrud
